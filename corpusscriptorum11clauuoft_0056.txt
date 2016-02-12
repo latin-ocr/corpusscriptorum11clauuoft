@@ -1,0 +1,42 @@
+A = codex Parisinus n. 16340 saec. V1111.
+
+B = codex Parisinus n. 2779 saec. X.
+
+G = codex Parisinus n. 2164 saec. XI.
+
+D = codex Montepessulanus H n. 145 saec. XII.
+
+E = codex Parisinus n. 2165 saec. XIII.
+
+F = codex Parisinus n. 18080 saec. XII.
+
+G = codex Vindobonensis n. 1030 saec. XI ineuntis.
+
+H = codex Einsidlensis n. 318 saec. X.
+
+L = codex Sangallensis n. 846 saec. X.
+
+M = codex Lipsiensis-Paulinus n. 286 saec. XI exeuntis.
+P = codex Schotti Plautinianus.
+
+R = codex Vaticanus-Reginensis n. 201 saec. X.
+
+S = codex Palatinus n. 240 saec. XI.
+
+T = codex Schotti Tornacensis (Martinianus).
+
+b = editio princeps Petri Mosellani Basileae 1520.
+
+p = editio Parisiensis 1576 (bibliotheca patrum V).
+
+ρ’ = editio Parisiensis 1589 (bibliotheca patrum IIII).
+
+Schottus (Βοὴ.) == editio Schotti (bibliotheca patrum Coloniensis tom. V).
+
+Bar-thius = editio Barthii Cygueae 1655.
+
+Galland. = editio Gallandii Venetiis 1774 (bibliotheca ueterum
+
+patrum tom. X).
+rell. = reliqui codices.
+
